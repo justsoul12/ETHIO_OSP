@@ -11,4 +11,5 @@ git lfs install    # to install git Large File System
 git lfs fetch      # to fetch the files from the LFS cloud
 git lfs checkout   # to get the actual src instead of object id for the file.
 ```
-* boom! now you can access the code* &#x1F389  &#x1F389 &#x1F389
+*boom! now you can access the code*
+<p>&#x1F389  &#x1F389 &#x1F389</p>
