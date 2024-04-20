@@ -4,11 +4,11 @@ size 283
 
 
 
-#h1 How do you open the files in this repo after cloning?
+h1 How do you open the files in this repo after cloning?
 ## run the following set of codes sequentially ##
 ```bash
 git lfs install    # to install git Large File System
 git lfs fetch      # to fetch the files from the LFS cloud
 git lfs checkout   # to get the actual src instead of object id for the file.
 ```
-** boom! now you can access the code** &#x1F389  &#x1F389 &#x1F389
+* boom! now you can access the code* &#x1F389  &#x1F389 &#x1F389
