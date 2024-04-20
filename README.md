@@ -4,6 +4,7 @@ size 283
 
 
 <h1>How do you open the files in this repo after cloning?</h1>
+
 ## run the following set of codes sequentially ##
 ```bash
 git lfs install    # to install git Large File System
