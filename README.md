@@ -3,8 +3,7 @@ oid sha256:8c3b8979b8920be569e017d79466bec8a57f0496fa9d774d4bd56e15507051c9
 size 283
 
 
-
-h1 How do you open the files in this repo after cloning?
+<h1>How do you open the files in this repo after cloning?</h1>
 ## run the following set of codes sequentially ##
 ```bash
 git lfs install    # to install git Large File System
